@@ -20,4 +20,4 @@ pip install tensorflow
 ```
 Note that TensorFlow 1.15 is compatible with python 3.6 and for versions after TensorFlow 2.0 is compatible so you need to make sure you are using python 3.6. 
 
-To check the QuestDb operations you can visit the following [link](https://tutswiki.com/setup-access-questdb-python-notebook/).
+To check the QuestDB operations you can visit the following [link](https://tutswiki.com/setup-access-questdb-python-notebook/).
