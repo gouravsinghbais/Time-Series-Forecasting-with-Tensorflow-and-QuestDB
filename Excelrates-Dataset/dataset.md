@@ -4,3 +4,5 @@ You can download the dataset from [here](https://excelrates.com/historical-excha
 2. **USD:** Price of USD at a specific date.
 3. **INR:** Price of INR concerning both USD and Date columns. 
 
+![data](https://i.imgur.com/KJ6o2m7.png)
+
