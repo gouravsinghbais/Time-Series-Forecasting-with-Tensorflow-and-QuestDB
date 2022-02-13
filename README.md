@@ -1,6 +1,6 @@
 # Time-Series-Forecasting-with-Tensorflow-and-QuestDB
 
-#### Install QuestDB:
+### Install QuestDB:
 
 To install QuestDB on any OS platform you will have to go through the following steps:
 1. Install Docker from https://docs.docker.com/engine/install/, as QuestDB would run on the Docker platform.
@@ -15,7 +15,7 @@ To install QuestDB on any OS platform you will have to go through the following 
     ```
     alternatively, you can browse **localhost:9000** and QuestDB should be accessible there. 
     
-#### Install Tensorflow:
+### Install Tensorflow:
 ```
 pip install tensorflow
 ```
